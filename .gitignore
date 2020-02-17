@@ -9,8 +9,11 @@ npm-debug.*
 *.orig.*
 web-build/
 web-report/
+ios/**/*
+android/**/*
 
 # macOS
 .DS_Store
 node_modules
 ios
+android
